@@ -26,7 +26,7 @@
 
 Para visualizar o resultado em sua máquina, siga os seguintes passos:
 ```sh
-cd genpassword-main
-yarn install
-yarn dev
+cd form-registration-PyQt5-main
+pip install -r requirements.txt
+python main.py
 ```
